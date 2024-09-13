@@ -9,7 +9,7 @@ let yRaquete = 150;
 let xRaqueteOponente = 585;
 let yRaqueteOponente = 150;
 let raqueteComprimento = 10;
-let raqueteAltura = 90;
+let raqueteAltura = 180;
 let colidiu = false;
 let trilha;
 let raquetada;
